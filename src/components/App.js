@@ -1,10 +1,11 @@
 import React from 'react';
-import {data} from '../data';
+import { data } from '../data';
+import MovieCard from './MovieCard';
 import Navbar from './Navbar';
 function App() {
   return (
     <div className="App">
-      {/* <Navbar /> */}
+      <Navbar />
       <div className="main">
         <div className="tabs">
           Movies
@@ -12,11 +13,11 @@ function App() {
         <div className="tabs">
           Favorites
         </div>
-        <div className="list">
+        {/* <div className="list">
           {data.map(movie => (
             <MovieCard movie={movie} />
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );
