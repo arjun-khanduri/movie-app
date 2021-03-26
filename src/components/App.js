@@ -8,16 +8,15 @@ function App() {
       <Navbar />
       <div className="main">
         <div className="tabs">
-          Movies
+          <div className="tab">Movies</div>
+          <div className="tab">Favorites</div>
         </div>
-        <div className="tabs">
-          Favorites
-        </div>
-        {/* <div className="list">
+
+        <div className="list">
           {data.map(movie => (
             <MovieCard movie={movie} />
           ))}
-        </div> */}
+        </div>
       </div>
     </div>
   );
