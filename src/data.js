@@ -43,23 +43,25 @@ export const data = [
     genre: ["Biography", "Drama", "History"],
     rate: "8.9",
     poster: "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
-  }
-  // {
-  //   title: "Pulp Fiction",
-  //   year: "1994",
-  //   director: "Quentin Tarantino",
-  //   duration: "2h 34min",
-  //   genre: ["Crime", "Drama"],
-  //   rate: "8.9"
-  // },
-  // {
-  //   title: "The Lord of the Rings: The Return of the King",
-  //   year: "2003",
-  //   director: "Peter Jackson",
-  //   duration: "3h 21min",
-  //   genre: ["Adventure", "Drama", "Fantasy"],
-  //   rate: "8.9"
-  // },
+  },
+  {
+    title: "Pulp Fiction",
+    year: "1994",
+    director: "Quentin Tarantino",
+    duration: "2h 34min",
+    genre: ["Crime", "Drama"],
+    rate: "8.9",
+    poster: "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    title: "The Lord of the Rings: The Return of the King",
+    year: "2003",
+    director: "Peter Jackson",
+    duration: "3h 21min",
+    genre: ["Adventure", "Drama", "Fantasy"],
+    rate: "8.9",
+    poster: "https://movieposters2.com/images/732400-b.jpg"
+  },
   // {
   //   title: "Il buono, il brutto, il cattivo",
   //   year: "1966",
@@ -100,14 +102,15 @@ export const data = [
   //   genre: ["Action", "Adventure", "Fantasy", "Sci-Fi"],
   //   rate: "8.8"
   // },
-  // {
-  //   title: "Inception",
-  //   year: "2010",
-  //   director: "Christopher Nolan",
-  //   duration: "2h 28min",
-  //   genre: ["Action", "Adventure", "Sci-Fi", "Thriller"],
-  //   rate: "8.8"
-  // },
+  {
+    title: "Inception",
+    year: "2010",
+    director: "Christopher Nolan",
+    duration: "2h 28min",
+    genre: ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    rate: "8.8",
+    poster: "https://resizing.flixster.com/aZwLoH9HriO9RpC4A9tB9HZIcdA=/206x305/v1.bTsxMTE2NjcyNTtqOzE4ODA0OzEyMDA7ODAwOzEyMDA"
+  },
   // {
   //   title: "The Lord of the Rings: The Two Towers",
   //   year: "2002",
@@ -132,14 +135,15 @@ export const data = [
   //   genre: ["Crime", "Drama"],
   //   rate: "8.7"
   // },
-  // {
-  //   title: "The Matrix",
-  //   year: "1999",
-  //   director: "Lana Wachowski",
-  //   duration: "2h 16min",
-  //   genre: ["Action", "Sci-Fi"],
-  //   rate: "8.7"
-  // },
+  {
+    title: "The Matrix",
+    year: "1999",
+    director: "Lana Wachowski",
+    duration: "2h 16min",
+    genre: ["Action", "Sci-Fi"],
+    rate: "8.7",
+    poster: "https://www.joblo.com/assets/images/oldsite/posters/images/full/1999-poster-matrix-2.jpg"
+  },
   // {
   //   title: "Shichinin no samurai",
   //   year: "1954",
@@ -244,14 +248,15 @@ export const data = [
   //   genre: ["Western"],
   //   rate: "8.6"
   // },
-  // {
-  //   title: "Interstellar",
-  //   year: "2014",
-  //   director: "Christopher Nolan",
-  //   duration: "2h 49min",
-  //   genre: ["Adventure", "Drama", "Sci-Fi"],
-  //   rate: "8.6"
-  // },
+  {
+    title: "Interstellar",
+    year: "2014",
+    director: "Christopher Nolan",
+    duration: "2h 49min",
+    genre: ["Adventure", "Drama", "Sci-Fi"],
+    rate: "8.6",
+    poster: "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
   // {
   //   title: "Psycho",
   //   year: "1960",
